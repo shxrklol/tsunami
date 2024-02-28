@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-Google™️'s Tsunami
+Google's Tsunami
   </h1>
 <br>
 <h3>
