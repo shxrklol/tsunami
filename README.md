@@ -3,9 +3,6 @@
 Google's Tsunami
   </h1>
 <br>
-<h3>
-  What is Google's Tsunami?
-</h3>
 <p>
   Google's Tsunami is a patch made to Chromebooks to stop downgrading
   and un-enrollment. Google has made a patch like this before called
