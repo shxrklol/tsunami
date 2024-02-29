@@ -32,8 +32,8 @@ Google's Tsunami
 </div>
 
 > [!IMPORTANT]
-> Before doing this step, please turn your chromebook off. If you do not turn off your chromebook, it will
-> brick and not boot anymore. This has happened to many people before.
+> Before doing this step, please turn your chromebook off. If you do not turn off your chromebook, it **WILL**
+> brick and **NOT** boot anymore. This has happened to many people before. **PLEASE** turn off your chromebook. This is your last warning.
 
 <div align="center">
   <p>
