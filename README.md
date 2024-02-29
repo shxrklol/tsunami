@@ -16,6 +16,7 @@ Google's Tsunami
   very difficult to use. Here I will explain step-by-step on how
   to un-enroll your chromebook past ChromeOS version 112.
 </p>
+</div>
 
   
 > [!NOTE]
