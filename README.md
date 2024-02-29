@@ -1,6 +1,7 @@
 > [!WARNING]
 > This exploit requires taking apart your chromebook and is HIGHLY discouraged.
-> Please only proceed if you are a professional. I am not responsible for any damages done to your device.
+> Please only proceed if you are a professional. I nor anyone else who made
+> the exploit are not responsible for any damages done to your device.
 
 <div align="center">
   <h1>
