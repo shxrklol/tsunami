@@ -29,9 +29,15 @@ Google's Tsunami
 <h1>
   Lets begin!
 </h1>
+</div>
+
+> [!IMPORTANT]
+> Before doing this step, please turn your chromebook off. If you do not turn off your chromebook, it will
+> brick and not boot anymore. This has happened to many people before.
+
+<div align="center">
   <p>
-    First, make sure your chromebook is turned off. This is very important and
-    cannot be skipped. Now, lets start by taking apart your chromebook. You will
+    Now, lets start by taking apart your chromebook. You will
     need to take off the back cover revealing the motherboard. Once you have taken
     off the back cover, make sure to unplug the battery. There will be images listed along
     the way to help you visualize what you are doing.
